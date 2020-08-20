@@ -24,9 +24,6 @@
 
 /* leaves space for the window buttons */
 #nav-bar {
-    margin-top: -8px;
-    margin-right: 74px;
-    margin-bottom: -4px;
 }
 
 /* new tab colors */
